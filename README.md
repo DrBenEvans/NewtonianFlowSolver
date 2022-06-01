@@ -1,0 +1,3 @@
+# NewtonianFlowSolver
+This is a MATLAB-based Newtonian flow solver for hypersonic flow modelling.  It was developed as a series of undergraduate research projects at the Aerospace Department of Swansea University.
+I will add more details here....
